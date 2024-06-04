@@ -2,7 +2,7 @@ package teste;
 
 public class Pessoa {
 	public String fala() {
-		return "Oi";
+		return "Hi";
 	}
 	
 }
